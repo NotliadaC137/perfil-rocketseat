@@ -82,7 +82,7 @@ body {
     z-index: 1;
     transform: translateY(-50%);
 
-    animation: slide-back 0.2s;
+    animation: slide-back 2s;
 }
 
 #switch button:hover {
